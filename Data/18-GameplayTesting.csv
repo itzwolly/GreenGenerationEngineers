@@ -1,0 +1,16 @@
+sep=,
+#ofPlayers, 9
+AverageWindOpinion, 3.666667
+AverageSolarOpinion, 3.666667
+AverageWindAwareness, 3.666667
+AverageSolarAwareness, 3.666667
+Name, Score, Date, Time, LevelsPlayed, WindOpinion, SolarOpinion, AwarenessWind, AwarenessSolar
+KIIP, 32.18293, 6-27-2018-, 3-23-16PM, 1, 3, 3, 3, 3
+POOP, 27.53195, 6-27-2018-, 3-59-22PM, 1, 3, 3, 3, 3
+, 31.69228, 6-27-2018-, 4-02-10PM, 1, 3, 3, 3, 3
+KRABS, 29.85299, 6-27-2018-, 5-42-24PM, 2, 5, 5, 5, 5
+GG, 28.59797, 6-28-2018-, 9-53-54AM, 2, 5, 5, 5, 5
+HANS, 22.81959, 6-28-2018-, 11-26-21AM, 2, 5, 5, 5, 5
+, 30.30545, 7-3-2018-, 12-21-01PM, 2, 3, 3, 3, 3
+, 25.96997, 7-3-2018-, 12-42-55PM, 1, 3, 3, 3, 3
+, 31.05913, 7-3-2018-, 12-45-40PM, 1, 3, 3, 3, 3

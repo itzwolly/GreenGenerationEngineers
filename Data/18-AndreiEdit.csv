@@ -1,0 +1,8 @@
+sep=,
+#ofPlayers, 1
+AverageWindOpinion, 3
+AverageSolarOpinion, 3
+AverageWindAwareness, 3
+AverageSolarAwareness, 3
+Name, Score, Date, Time, LevelsPlayed, WindOpinion, SolarOpinion, AwarenessWind, AwarenessSolar
+KIK, 50.01161, 6-27-2018-, 3-16-38PM, 1, 3, 3, 3, 3
